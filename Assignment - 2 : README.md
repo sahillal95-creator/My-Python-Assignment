@@ -4,7 +4,7 @@
 This program takes an integer input from the user and checks whether the number is even or odd using an if-else statement.
 
 ### File:
-task1_even_odd.py
+even-odd.py
 
 ---
 
@@ -12,6 +12,6 @@ task1_even_odd.py
 This program uses a for loop to calculate the sum of integers from 1 to 50 and displays the result.
 
 ### File:
-task2_sum_1_to_50.py
+Integer 1-50.py
 
 ---
