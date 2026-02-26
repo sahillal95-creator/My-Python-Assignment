@@ -1,5 +1,5 @@
 # My-Python-Assignment
-# Assignment - 1
+
 # Task 1
 
 ## Basic Mathematical Operations in Python
